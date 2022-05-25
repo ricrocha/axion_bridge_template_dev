@@ -5,7 +5,7 @@
   "homepage": "https://wrapbootstrap.com/theme/artificial-reason-responsive-full-pack-WB0307B17",
   "author": "Adrian Guerra Marrero",
   "devDependencies": {
-    "grunt": "~1.0.1",
+    "grunt": "~1.5.3",
     "grunt-contrib-clean": "~1.0",
     "grunt-contrib-concat": "~1.0.1",
     "grunt-contrib-connect": "~1.0.2",
